@@ -186,4 +186,5 @@ Figma: For UI design.
 Feel free to connect with me on LinkedIn or follow my GitHub for more projects and updates.
 
 GitHUb-https://github.com/hetshah72
+
 linkedin- https://www.linkedin.com/in/het-shah-36a683230/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
